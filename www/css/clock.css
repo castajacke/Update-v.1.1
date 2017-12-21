@@ -1,0 +1,28 @@
+* {
+    box-sizing: border-box;
+}
+
+html {
+    padding-top:50px;
+}
+
+
+
+body {
+    border-radius: 20px;
+    padding: 0px;
+    width: 20%;
+    height: 50px;
+    margin: 0 auto;
+    background: #f3f1f5;
+}    
+
+#clock {
+    height:20px;
+    font-size: 18px;
+    font-family: monospace;
+    font-weight: bold;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
